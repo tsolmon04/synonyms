@@ -24,12 +24,13 @@ This project is from ESC180 that implements an intelligent system designed to an
    - The synonym with the highest cosine similarity to the target word is selected as the correct answer.
 
 
-## Acknowledgments
-
-- All credit goes to the course instructor Michael Guerzhoy
-
 ## Usage
 
 1. Provide a text input that contains words to compute semantic relationships.
 2. Specify the target word and a list of possible synonyms.
 3. The system will compute the semantic descriptor vectors and return the synonym with the highest cosine similarity.
+
+
+## Acknowledgments
+
+- All credit goes to the course instructor Michael Guerzhoy
