@@ -1,6 +1,6 @@
 '''Semantic Similarity: starter code
 
-Author: Michael Guerzhoy. Last modified: Nov. 20, 2020.
+Author: Michael Guerzhoy. Last modified: Nov. 14, 2016.
 '''
 
 import math
