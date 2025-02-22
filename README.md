@@ -1,6 +1,6 @@
 # Semantic Similarity System for TOEFL Synonym Questions
 
-This project is from ESC180 that implements an intelligent system designed to answer TOEFL "Synonym Questions" by calculating the semantic similarity between a target word and a list of possible synonyms. The system computes the semantic descriptor vectors for each word using the co-occurrence of words in a given text and then determines the word with the highest similarity using cosine similarity.
+This project implements an intelligent system designed to answer TOEFL "Synonym Questions" by calculating the semantic similarity between a target word and a list of possible synonyms. The system computes the semantic descriptor vectors for each word using the co-occurrence of words in a given text and then determines the word with the highest similarity using cosine similarity.
 
 ## Features
 
@@ -29,8 +29,3 @@ This project is from ESC180 that implements an intelligent system designed to an
 1. Provide a text input that contains words to compute semantic relationships.
 2. Specify the target word and a list of possible synonyms.
 3. The system will compute the semantic descriptor vectors and return the synonym with the highest cosine similarity.
-
-
-## Acknowledgments
-
-- All credit goes to the course instructor Michael Guerzhoy
